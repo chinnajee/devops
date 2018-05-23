@@ -1,5 +1,5 @@
 import java.net.InetAddress;
-
+//just an update
 class GetMyIPAddress
 {
    public static void main(String args[]) throws Exception
